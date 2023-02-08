@@ -55,4 +55,4 @@ if __name__ == '__main__':
 
     topCell.write_gds('./EBeam_SebyLeSeigneurSith.gds')
     
-    topCell.show(show_ports= True)
+    topCell.show(show_ports= True, technology = 'EBeam')
