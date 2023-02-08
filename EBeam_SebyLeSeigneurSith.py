@@ -22,7 +22,7 @@ topCell = gf.Component("EBeam_SebyLeSeigneurSith")
 DeltaL_table = [25, 45, 65, 85, 105, 125]
 MZI = []
 
-# Defin the floor plan size
+# Define the floor plan size
 floorplan_size = (605, 410)
 
 if __name__ == '__main__':
